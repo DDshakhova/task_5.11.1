@@ -21,4 +21,4 @@ _Веб-страница, которую захочется открыть в ж
 
 Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу _index.html_.
 
-Или [посмотреть](https://ddshakhova.github.io/task_5.11.1/) на _Github Pages_.
+Или [посмотреть](https://ddshakhova.github.io/task_5.11.1/site/index.html) на _Github Pages_.
